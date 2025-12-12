@@ -172,3 +172,6 @@ playwright-report/
 
 # Local development
 .local
+
+commit_script.ps1
+* commit_script.ps1 
